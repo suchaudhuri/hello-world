@@ -1,2 +1,5 @@
 # hello-world
-New Starting
+Hi All,
+
+I am using GitHub for the first time.
+
